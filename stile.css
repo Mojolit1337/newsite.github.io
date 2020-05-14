@@ -1,0 +1,33 @@
+body{
+
+background-color: #cccccc;
+font-family: sans-serif;
+
+
+}
+
+
+
+
+.content{
+
+  background-color: #ffffff;
+
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+.head{
+
+  background-color: #00ffe1;
+text-align: center;
+}
+.footer{
+  background-color: gray;
+  text-align: center;
+}
+.nav{
+
+
+
+}
